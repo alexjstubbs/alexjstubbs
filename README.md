@@ -1,6 +1,8 @@
 
 Hello 👋, my name is Alex and I am a "full stack web software engineer with a front-end focus," a proponent of the small web, and a retro hardware enthusiast.
 
+Interested in hiring me? `curl stubbs.sh`
+
 <details>
 <summary>About Me</summary>
 
