@@ -13,7 +13,7 @@
 ---------------
 
 <h3>About Me</h3>
-<p>Hello 👋, my name is Alex and I am a "full stack web software engineer with a front end focus," a proponent of the <a href="https://benhoyt.com/writings/the-small-web-is-beautiful/" target="_blank">small web</a>, and a retro hardware enthusiast.</p>
+<p>Hello 👋, my name is Alex and I am a "<strong>full stack web software engineer with a front end focus</strong>," a proponent of the <a href="https://benhoyt.com/writings/the-small-web-is-beautiful/" target="_blank">small web</a>, and a retro hardware enthusiast.</p>
 
 <p>I started designing and developing websites way back in 1997 on a <a href="https://en.wikipedia.org/wiki/Sega_Net_Link" target="_blank">Sega Saturn Netlink</a>. Without a keyboard in hand, I hand-wrote my table based HTML markup in old notebooks to transcribe into <a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface" target="_blank">CGI</a> web editors utilizing an on-screen keyboard and controller, and of course, all while collaborating over IRC.</p>
 
