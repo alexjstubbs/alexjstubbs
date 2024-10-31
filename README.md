@@ -1,9 +1,9 @@
-<h1 align="center">Alex Stubbs <span style="font-size:0.3em !important">(a13x)</span></h1>
+<h1 align="center">Alex Stubbs</h1>
 <p align="center">
     <a href="https://github.com/alexjstubbs" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/alexanderstubbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:hialex@duck.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
-    <a href="https://github.com/alexjstubbs/PGP"><img src="https://img.shields.io/badge/PGP-KEY"></a>
+    <a href="https://github.com/alexjstubbs/PGP"><img src="https://img.shields.io/badge/PGP-KEY"></a> (a13x)
 </p>
 
 <p>&nbsp;</p>
