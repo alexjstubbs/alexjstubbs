@@ -20,3 +20,6 @@
 
 <p>Luckily, times have changed and I now own both multiple PC's and keyboards. I have since worked on countless projects from interesting startups in various spaces, to enterprise level applications, as well as multiple personal and collaborative projects. I also founded <a href="https://www.elemeno.dev/" target="_blank">Elemeno</a>, a collective of talent functioning as a digital agency. You have most likely even seen some of my design work for large brand-names in the market.</p>
 
+<h3>Want to connect?</h3>
+
+I would be excited to hear what project(s) you might need help with, and while you can certainly e-mail me (I am very responsive), if you would like to connect on a deeper level, feel free to find me out on the crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>ascetic</code> or feel free to get more info via: <code>curl stubbs.sh</code>
