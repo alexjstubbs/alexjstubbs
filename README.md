@@ -1,4 +1,4 @@
-<h1 align="center">Alex Stubbs <small>(a13x)</small></h1>
+<h1 align="center">Alex Stubbs <h4>(a13x)</h4></h1>
 <p align="center">
     <a href="https://github.com/alexjstubbs" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/alexanderstubbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
