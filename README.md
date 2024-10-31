@@ -2,7 +2,7 @@
 <p align="center">
     <a href="https://github.com/alexjstubbs" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/alexanderstubbs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-    <a href="mailto:hialex@duck.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+    <a href="mailto:hialex@duck.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://github.com/alexjstubbs/PGP"><img src="https://img.shields.io/badge/PGP-KEY"></a>
 </p>
 
@@ -22,4 +22,4 @@
 
 <h3>Want to connect?</h3>
 
-I would be excited to hear what project(s) you might need help with, and while you can certainly e-mail me (I am very responsive), if you would like to connect on a deeper level, feel free to find me out on the crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>a13x</code> or feel free to get more info via: <code>curl stubbs.sh</code>
+I would be excited to hear what project(s) you might need help with, and while you can certainly <a href="mailto:hialex@duck.com">e-mail me</a> (I am very responsive), if you would like to connect on a deeper level, feel free to find me out on the crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>a13x</code> or feel free to get more info via: <code>curl stubbs.sh</code>
