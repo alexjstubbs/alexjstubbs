@@ -9,7 +9,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center"><strong>Full Stack Developer with a Front End Focus</strong></h2>
-<p align="center">🎇 React.js / 📟 Node.js / 💻 TypeScript / 🎩 Vue.js  / 🔥 Tailwind /  👾 Electron / 📏 Figma / 🐋 Docker / 🌟 Next.js / 🔅 AWS / 🐧 Linux / 🔐 Privacy Focused / 📄 Open Source / 🐒 (insert your ccol new library here) </p>
+<p align="center">🎇 React.js / 📟 Node.js / 💻 TypeScript / 🎩 Vue.js  / 🔥 Tailwind /  👾 Electron / 📏 Figma / 🐋 Docker / 🌟 Next.js / 🔅 AWS / 🐧 Linux / 🔐 Privacy Focused / 📄 Open Source / 🐒 (insert your team's ccol new library here) </p>
 
 ---------------
 
