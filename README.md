@@ -8,7 +8,7 @@
 <p>&nbsp;</p>
 
 <h2 align="center"><strong>Full Stack Developer with a Front End Focus</strong></h2>
-<p align="center">🎇 React.js / 📟 Node.js / 💻 TypeScript / 🎩 Vue.js  / 🔥 Tailwind /  👾 Electron / 📏 Figma / ☄ Nuxt.js / 🌟 Next.js / 🔅 AWS / 🐧 Linux / 📄 Open Source </p>
+<p align="center">🎇 React.js / 📟 Node.js / 💻 TypeScript / 🎩 Vue.js  / 🔥 Tailwind /  👾 Electron / 📏 Figma / 🐋 Docker / 🌟 Next.js / 🔅 AWS / 🐧 Linux / 📄 Open Source </p>
 
 ---------------
 
