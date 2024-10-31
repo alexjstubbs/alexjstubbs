@@ -22,4 +22,4 @@
 
 <h3>Want to connect?</h3>
 
-I would be excited to hear what project(s) you might need help with, and while you can certainly e-mail me (I am very responsive), if you would like to connect on a deeper level, feel free to find me out on the crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>ascetic</code> or feel free to get more info via: <code>curl stubbs.sh</code>
+I would be excited to hear what project(s) you might need help with, and while you can certainly e-mail me (I am very responsive), if you would like to connect on a deeper level, feel free to find me out on the crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>a13x</code> or feel free to get more info via: <code>curl stubbs.sh</code>
