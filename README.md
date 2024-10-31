@@ -18,7 +18,7 @@
 
 <p>I started designing and developing websites way back in 1997 on a <a href="https://en.wikipedia.org/wiki/Sega_Net_Link" target="_blank">Sega Saturn Netlink</a>. Without a keyboard in hand, I hand-wrote my table based HTML markup in old notebooks to transcribe into <a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface" target="_blank">CGI</a> web editors utilizing an on-screen keyboard and controller, and of course, all while collaborating over IRC.</p>
 
-<p>Luckily, times have changed and I now own both multiple PC's and keyboards. I have since worked on countless projects from interesting startups in various spaces, to enterprise level applications, goverment funded incentivized data applications, as well as multiple personal and collaborative projects. I also founded <a href="https://www.elemeno.dev/" target="_blank">Elemeno</a>, a collective of talent functioning as a digital agency. You have most likely even seen some of my design work for large brand-names in the market.</p>
+<p>Luckily, times have changed and I now own both multiple PC's and keyboards. I have since worked on countless projects from interesting startups in various spaces, to enterprise level applications, goverment funded incentivized data applications, as well as multiple personal and collaborative projects. I also founded <a href="https://www.elemeno.dev/" target="_blank">Elemeno</a>, a collective of talent functioning as a digital agency. You have most likely even seen some of my design work for large brand-names in the market while shopping around with your spouse.</p>
 
 <h3>Want to connect?</h3>
 
