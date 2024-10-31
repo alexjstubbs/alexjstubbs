@@ -22,4 +22,4 @@
 
 <h3>Want to connect?</h3>
 
-I would be excited to hear what project(s) you might need help with, and while you can certainly <a href="mailto:hialex@duck.com">e-mail me</a> (I am very responsive), if you would like to connect on a deeper level, and get real nerdy, feel free to find me out on this crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>a13x</code> or get more info via: <code>curl stubbs.sh</code>
+I would be excited to hear what project(s) you might need help with, and while you can certainly <a href="mailto:hialex@duck.com">e-mail me</a> (I am very responsive), if you would like to connect on a deeper level, and get real nerdy, feel free to find me out on this crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>a13x</code>, find me on <a href="http://tilde.club">tilde.club</a> as <code>~a13x</code>, or just get the info you need via: <code>curl stubbs.sh</code>
