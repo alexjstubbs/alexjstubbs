@@ -14,13 +14,34 @@
 ---------------
 
 <h3>About Me</h3>
-<p>Hello 👋, my name is Alex and I am a "<strong>full stack web software engineer with a front end focus</strong>," a proponent of the <a href="https://benhoyt.com/writings/the-small-web-is-beautiful/" target="_blank">small web</a>, and a retro hardware enthusiast.</p>
+# ./alexstubbs
 
-<p>I started designing and developing websites way back in 1997 on a <a href="https://en.wikipedia.org/wiki/Sega_Net_Link" target="_blank">Sega Saturn Netlink</a>. Without a keyboard in hand, I hand-wrote my table based HTML markup in old notebooks to transcribe into <a href="https://en.wikipedia.org/wiki/Common_Gateway_Interface" target="_blank">CGI</a> web editors utilizing an on-screen keyboard and controller, and of course, all while collaborating over IRC.</p>
+Technical partner. Product builder. Retro hardware enthusiast.
 
-<p>Luckily, times have changed and I now own both multiple PC's and keyboards. I have since worked on countless projects from interesting startups in various spaces, to enterprise level applications, goverment funded incentivized data applications, as well as multiple personal and collaborative projects. I also founded <a href="https://www.elemeno.dev/" target="_blank">Elemeno</a>, a collective of talent functioning as a digital agency. You have most likely even seen some of my design work for large brand-names in the market.</p>
+I've been building for the web since 1997 — starting on a Sega Saturn Netlink, 
+hand-writing HTML in notebooks to transcribe with a controller and an on-screen 
+keyboard, collaborating over IRC. Luckily I now own both multiple PCs and keyboards.
 
-<h3>Want to connect?</h3>
+Since then I've shipped products for government agencies at scale, co-founded a 
+digital agency, and partnered directly with founders from idea to launch — more 
+than once. These days I spend less time writing code and more time making sure 
+the right things get built the right way.
 
-I would be excited to hear what project(s) you might need help with, and while you can certainly <a href="mailto:hialex@duck.com">e-mail me</a> (I am very responsive), if you would like to connect on a deeper level, and get real nerdy, feel free to find me out on this crazy thing we call the World Wide Web via IRC: <code>irc.libera.chat</code> as <code>a13x</code>, find me on <a href="http://tilde.club">tilde.club</a> as <code>~a13x</code>, or just get the info you need via: <code>curl stubbs.sh</code>
+Proponent of the small web. Privacy focused. Open source when I can be.
 
+---
+
+## What I'm working with
+
+React · Vue · TypeScript · Node.js · Next.js · Astro · Electron
+D3 · PostgreSQL · Docker · AWS · Tailwind · Linux · Generative AI
+
+---
+
+## Want to connect?
+
+- 🌐 alexstubbs.com
+- 📡 IRC: irc.rizon.net → ascetic
+- 🐚 tilde.club → ~a13x  
+- 💻 curl stubbs.sh
+- ✉️ hialex@duck.com
