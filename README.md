@@ -14,14 +14,9 @@
 
 ---
 
-I've been building for the web since 1997 — starting on a Sega Saturn Netlink,
-hand-writing HTML in notebooks to transcribe with a controller and an on-screen
-keyboard, collaborating over IRC. Luckily I now own both multiple PCs and keyboards.
+I started designing and developing websites way back in 1997 on a [Sega Saturn Netlink](https://en.wikipedia.org/wiki/Sega_Net_Link). Without a keyboard in hand, I hand-wrote my table based HTML markup in old notebooks to transcribe into CGI web editors utilizing an on-screen keyboard and controller, and of course, all while collaborating over IRC.
 
-Since then I've shipped products for government agencies at scale, co-founded a
-digital agency, and partnered directly with founders from idea to launch — more
-than once. These days I spend less time writing code and more time making sure
-the right things get built the right way.
+Luckily, times have changed and I now own both multiple PCs and keyboards. Since then I've worked on countless projects — interesting startups, enterprise applications, government-scale products, and everything in between. I also founded Elemeno, a collective of talent functioning as a digital agency. These days I spend less time writing code and more time making sure the right things get built the right way.
 
 Proponent of the small web. Privacy focused. Open source when I can be.
 
